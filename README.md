@@ -12,3 +12,6 @@ Publicly available datasets were analyzed in this study. This data can be found 
 - https://dpesgf03.nccs.nasa.gov/thredds/catalog/esgcet/bioClim.html
   
 ## Code 
+1) 1_extractPointEnvData.R - Code to extract point environmental data
+2) 2_predictAcrossUS.R - Code to predict across the US
+3) 3_analysisFigures.R - Formal analysis and figures
